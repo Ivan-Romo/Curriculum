@@ -17,7 +17,7 @@ body{
 }
 
 .top-section{
-	background-color:#244b29;
+	background-color:#383838 ;
 	text-align: center;
 	padding: 20px;
 
@@ -65,8 +65,10 @@ body{
 .content-box{
 	padding: 20px;
 }
+
+
 .head{
-    background-color:#244b29;
+    background-color:#383838;
 	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: 600;
